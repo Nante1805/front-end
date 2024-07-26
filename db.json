@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "df63",
+      "username": "Nanté",
+      "email": "ranaivosoamami@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "7c21",
+      "username": "Nanté",
+      "email": "ranaivosoamami@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "dc5e",
+      "username": "Nanté",
+      "email": "ranaivosoamami@gmail.com",
+      "password": "123"
+    }
+  ]
+}
